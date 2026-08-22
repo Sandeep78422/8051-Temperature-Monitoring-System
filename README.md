@@ -1,5 +1,3 @@
-# 8051-Temperature-Monitoring-System
-
 # 8051-Based Digital Temperature Monitoring System
 
 ## Overview
