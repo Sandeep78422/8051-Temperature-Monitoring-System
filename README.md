@@ -1,5 +1,7 @@
 # 8051-Based Digital Temperature Monitoring System
 
+![image alt](https://github.com/Sandeep78422/8051-Temperature-Monitoring-System/blob/ec6b1a2a5b78861b5cd83b3aa579425628dfb317/Screenshot%202026-04-06%20154313.png)
+
 ## Overview
 
 This project implements a digital temperature monitoring system using the **AT89C51 (8051) microcontroller**. An **LM35 temperature sensor** is used to sense temperature, while an **ADC0804** converts the analog sensor output into digital data for processing by the microcontroller.
